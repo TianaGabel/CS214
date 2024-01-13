@@ -1,0 +1,495 @@
+2023-11-09 14:53:23 DEBUG Log4jExample:8 - DEBUG!
+2023-11-09 14:53:23 INFO  Log4jExample:9 - INFO!!
+2023-11-09 14:53:23 WARN  Log4jExample:10 - WARNING!!!
+2023-11-09 14:53:23 FATAL Log4jExample:11 - FATAL!!!!
+2023-11-14 21:54:40 DEBUG Log4jExample:8 - DEBUG!
+2023-11-14 21:54:40 INFO  Log4jExample:9 - INFO!!
+2023-11-14 21:54:40 WARN  Log4jExample:10 - WARNING!!!
+2023-11-14 21:54:40 FATAL Log4jExample:11 - FATAL!!!!
+2023-11-16 22:24:27 DEBUG Log4jExample:8 - DEBUG!
+2023-11-16 22:24:27 INFO  Log4jExample:9 - INFO!!
+2023-11-16 22:24:27 WARN  Log4jExample:10 - WARNING!!!
+2023-11-16 22:24:27 FATAL Log4jExample:11 - FATAL!!!!
+2023-11-16 22:59:34 INFO  Player:16 - New player created
+2023-11-16 22:59:34 INFO  Player:16 - New player created
+2023-11-16 22:59:34 INFO  Player:169 - Item succesfully sold
+2023-11-16 22:59:34 INFO  Player:16 - New player created
+2023-11-16 22:59:34 INFO  Player:16 - New player created
+2023-11-16 22:59:34 INFO  Player:147 - Item successfully bought
+2023-11-16 22:59:34 INFO  Player:147 - Item successfully bought
+2023-11-16 22:59:34 INFO  Player:147 - Item successfully bought
+2023-11-16 22:59:34 INFO  Player:16 - New player created
+2023-11-16 22:59:34 INFO  Player:16 - New player created
+2023-11-16 22:59:34 INFO  Player:16 - New player created
+2023-11-16 22:59:35 INFO  Player:16 - New player created
+2023-11-16 22:59:35 INFO  Player:147 - Item successfully bought
+2023-11-16 22:59:35 INFO  Player:147 - Item successfully bought
+2023-11-16 22:59:35 INFO  Player:147 - Item successfully bought
+2023-11-16 22:59:35 INFO  Player:16 - New player created
+2023-11-16 22:59:35 INFO  Player:169 - Item succesfully sold
+2023-11-16 22:59:36 INFO  Player:16 - New player created
+2023-11-16 22:59:47 INFO  Player:147 - Item successfully bought
+2023-11-16 22:59:51 INFO  Player:169 - Item succesfully sold
+2023-11-16 22:59:58 INFO  Player:147 - Item successfully bought
+2023-11-16 23:02:54 INFO  Player:16 - New player created
+2023-11-16 23:02:54 INFO  Player:16 - New player created
+2023-11-16 23:02:54 INFO  Player:169 - Item succesfully sold
+2023-11-16 23:02:54 INFO  Player:16 - New player created
+2023-11-16 23:02:54 WARN  Player:54 - Player not in store
+2023-11-16 23:02:54 INFO  Player:16 - New player created
+2023-11-16 23:02:54 WARN  Player:54 - Player not in store
+2023-11-16 23:02:54 INFO  Player:147 - Item successfully bought
+2023-11-16 23:02:54 INFO  Player:147 - Item successfully bought
+2023-11-16 23:02:54 INFO  Player:147 - Item successfully bought
+2023-11-16 23:02:54 INFO  Player:16 - New player created
+2023-11-16 23:02:54 INFO  Player:16 - New player created
+2023-11-16 23:02:54 WARN  Player:54 - Player not in store
+2023-11-16 23:02:54 INFO  Player:16 - New player created
+2023-11-16 23:02:54 WARN  Player:54 - Player not in store
+2023-11-16 23:02:55 INFO  Player:16 - New player created
+2023-11-16 23:02:55 WARN  Player:54 - Player not in store
+2023-11-16 23:02:55 INFO  Player:147 - Item successfully bought
+2023-11-16 23:02:55 INFO  Player:147 - Item successfully bought
+2023-11-16 23:02:55 INFO  Player:147 - Item successfully bought
+2023-11-16 23:02:55 INFO  Player:16 - New player created
+2023-11-16 23:02:55 WARN  Player:54 - Player not in store
+2023-11-16 23:02:55 INFO  Player:169 - Item succesfully sold
+2023-11-16 23:02:56 INFO  Player:16 - New player created
+2023-11-16 23:05:14 INFO  Player:16 - New player created
+2023-11-16 23:05:14 INFO  Player:16 - New player created
+2023-11-16 23:05:14 INFO  Player:169 - Item succesfully sold
+2023-11-16 23:05:14 INFO  Player:16 - New player created
+2023-11-16 23:05:14 WARN  Player:54 - Player not in store
+2023-11-16 23:05:14 INFO  Player:16 - New player created
+2023-11-16 23:05:14 WARN  Player:54 - Player not in store
+2023-11-16 23:05:14 INFO  Player:147 - Item successfully bought
+2023-11-16 23:05:14 INFO  Player:147 - Item successfully bought
+2023-11-16 23:05:14 INFO  Player:147 - Item successfully bought
+2023-11-16 23:05:14 INFO  Player:16 - New player created
+2023-11-16 23:05:14 INFO  Player:16 - New player created
+2023-11-16 23:05:14 WARN  Player:54 - Player not in store
+2023-11-16 23:05:14 INFO  Player:16 - New player created
+2023-11-16 23:05:14 WARN  Player:54 - Player not in store
+2023-11-16 23:05:15 INFO  Player:16 - New player created
+2023-11-16 23:05:15 WARN  Player:54 - Player not in store
+2023-11-16 23:05:15 INFO  Player:147 - Item successfully bought
+2023-11-16 23:05:15 INFO  Player:147 - Item successfully bought
+2023-11-16 23:05:15 INFO  Player:147 - Item successfully bought
+2023-11-16 23:05:15 INFO  Player:16 - New player created
+2023-11-16 23:05:15 WARN  Player:54 - Player not in store
+2023-11-16 23:05:15 INFO  Player:169 - Item succesfully sold
+2023-11-16 23:05:16 INFO  Player:16 - New player created
+2023-11-24 13:59:17 INFO  Player:16 - New player created
+2023-11-24 13:59:17 INFO  Player:16 - New player created
+2023-11-24 13:59:17 INFO  Player:169 - Item succesfully sold
+2023-11-24 13:59:17 INFO  Player:16 - New player created
+2023-11-24 13:59:17 WARN  Player:54 - Player not in store
+2023-11-24 13:59:17 INFO  Player:16 - New player created
+2023-11-24 13:59:17 WARN  Player:54 - Player not in store
+2023-11-24 13:59:17 INFO  Player:147 - Item successfully bought
+2023-11-24 13:59:17 INFO  Player:147 - Item successfully bought
+2023-11-24 13:59:17 INFO  Player:147 - Item successfully bought
+2023-11-24 13:59:17 INFO  Player:16 - New player created
+2023-11-24 13:59:17 INFO  Player:16 - New player created
+2023-11-24 13:59:17 WARN  Player:54 - Player not in store
+2023-11-24 13:59:17 INFO  Player:16 - New player created
+2023-11-24 13:59:17 WARN  Player:54 - Player not in store
+2023-11-24 13:59:18 INFO  Player:16 - New player created
+2023-11-24 13:59:18 INFO  Player:16 - New player created
+2023-11-24 13:59:18 WARN  Player:54 - Player not in store
+2023-11-24 13:59:18 WARN  Player:54 - Player not in store
+2023-11-24 13:59:18 INFO  Player:147 - Item successfully bought
+2023-11-24 13:59:18 INFO  Player:147 - Item successfully bought
+2023-11-24 13:59:18 INFO  Player:147 - Item successfully bought
+2023-11-24 13:59:18 INFO  Player:16 - New player created
+2023-11-24 13:59:18 INFO  Player:169 - Item succesfully sold
+2023-11-24 13:59:19 INFO  Player:16 - New player created
+2023-11-24 14:03:39 INFO  Player:16 - New player created
+2023-11-24 14:03:39 INFO  Player:16 - New player created
+2023-11-24 14:03:39 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:03:39 INFO  Player:16 - New player created
+2023-11-24 14:03:39 WARN  Player:54 - Player not in store
+2023-11-24 14:03:39 INFO  Player:16 - New player created
+2023-11-24 14:03:39 WARN  Player:54 - Player not in store
+2023-11-24 14:03:39 INFO  Player:147 - Item successfully bought
+2023-11-24 14:03:39 INFO  Player:147 - Item successfully bought
+2023-11-24 14:03:39 INFO  Player:147 - Item successfully bought
+2023-11-24 14:03:39 INFO  Player:16 - New player created
+2023-11-24 14:03:39 INFO  Player:16 - New player created
+2023-11-24 14:03:39 WARN  Player:54 - Player not in store
+2023-11-24 14:03:39 INFO  Player:16 - New player created
+2023-11-24 14:03:39 WARN  Player:54 - Player not in store
+2023-11-24 14:03:40 INFO  Player:16 - New player created
+2023-11-24 14:03:40 INFO  Player:16 - New player created
+2023-11-24 14:03:40 WARN  Player:54 - Player not in store
+2023-11-24 14:03:40 INFO  Player:16 - New player created
+2023-11-24 14:03:40 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:03:40 WARN  Player:54 - Player not in store
+2023-11-24 14:03:40 INFO  Player:147 - Item successfully bought
+2023-11-24 14:03:40 INFO  Player:147 - Item successfully bought
+2023-11-24 14:03:40 INFO  Player:147 - Item successfully bought
+2023-11-24 14:04:59 INFO  Player:16 - New player created
+2023-11-24 14:04:59 INFO  Player:16 - New player created
+2023-11-24 14:04:59 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:04:59 INFO  Player:16 - New player created
+2023-11-24 14:04:59 WARN  Player:54 - Player not in store
+2023-11-24 14:04:59 INFO  Player:16 - New player created
+2023-11-24 14:04:59 WARN  Player:54 - Player not in store
+2023-11-24 14:04:59 INFO  Player:147 - Item successfully bought
+2023-11-24 14:04:59 INFO  Player:147 - Item successfully bought
+2023-11-24 14:04:59 INFO  Player:147 - Item successfully bought
+2023-11-24 14:04:59 INFO  Player:16 - New player created
+2023-11-24 14:04:59 INFO  Player:16 - New player created
+2023-11-24 14:04:59 WARN  Player:54 - Player not in store
+2023-11-24 14:04:59 INFO  Player:16 - New player created
+2023-11-24 14:04:59 WARN  Player:54 - Player not in store
+2023-11-24 14:05:00 INFO  Player:16 - New player created
+2023-11-24 14:05:00 INFO  Player:16 - New player created
+2023-11-24 14:05:00 WARN  Player:54 - Player not in store
+2023-11-24 14:05:00 INFO  Player:16 - New player created
+2023-11-24 14:05:00 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:05:00 WARN  Player:54 - Player not in store
+2023-11-24 14:05:00 INFO  Player:147 - Item successfully bought
+2023-11-24 14:05:00 INFO  Player:147 - Item successfully bought
+2023-11-24 14:05:00 INFO  Player:147 - Item successfully bought
+2023-11-24 14:05:01 INFO  Player:16 - New player created
+2023-11-24 14:09:40 INFO  Player:16 - New player created
+2023-11-24 14:09:40 INFO  Player:16 - New player created
+2023-11-24 14:09:40 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:09:40 INFO  Player:16 - New player created
+2023-11-24 14:09:40 WARN  Player:54 - Player not in store
+2023-11-24 14:09:40 INFO  Player:16 - New player created
+2023-11-24 14:09:40 WARN  Player:54 - Player not in store
+2023-11-24 14:09:40 INFO  Player:147 - Item successfully bought
+2023-11-24 14:09:40 INFO  Player:147 - Item successfully bought
+2023-11-24 14:09:40 INFO  Player:147 - Item successfully bought
+2023-11-24 14:09:40 INFO  Player:16 - New player created
+2023-11-24 14:09:40 INFO  Player:16 - New player created
+2023-11-24 14:09:40 WARN  Player:54 - Player not in store
+2023-11-24 14:09:40 INFO  Player:16 - New player created
+2023-11-24 14:09:40 WARN  Player:54 - Player not in store
+2023-11-24 14:09:41 INFO  Player:16 - New player created
+2023-11-24 14:09:41 INFO  Player:16 - New player created
+2023-11-24 14:09:41 WARN  Player:54 - Player not in store
+2023-11-24 14:09:41 INFO  Player:16 - New player created
+2023-11-24 14:09:41 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:09:41 WARN  Player:54 - Player not in store
+2023-11-24 14:09:41 INFO  Player:147 - Item successfully bought
+2023-11-24 14:09:41 INFO  Player:147 - Item successfully bought
+2023-11-24 14:09:41 INFO  Player:147 - Item successfully bought
+2023-11-24 14:09:42 INFO  Player:16 - New player created
+2023-11-24 14:24:27 INFO  Player:16 - New player created
+2023-11-24 14:24:27 INFO  Player:16 - New player created
+2023-11-24 14:24:27 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:24:27 INFO  Player:16 - New player created
+2023-11-24 14:24:27 WARN  Player:54 - Player not in store
+2023-11-24 14:24:27 INFO  Player:16 - New player created
+2023-11-24 14:24:27 WARN  Player:54 - Player not in store
+2023-11-24 14:24:27 INFO  Player:147 - Item successfully bought
+2023-11-24 14:24:27 INFO  Player:147 - Item successfully bought
+2023-11-24 14:24:27 INFO  Player:147 - Item successfully bought
+2023-11-24 14:24:27 INFO  Player:16 - New player created
+2023-11-24 14:24:27 INFO  Player:16 - New player created
+2023-11-24 14:24:27 WARN  Player:54 - Player not in store
+2023-11-24 14:24:27 INFO  Player:16 - New player created
+2023-11-24 14:24:27 WARN  Player:54 - Player not in store
+2023-11-24 14:24:28 INFO  Player:16 - New player created
+2023-11-24 14:24:28 INFO  Player:16 - New player created
+2023-11-24 14:24:28 WARN  Player:54 - Player not in store
+2023-11-24 14:24:28 INFO  Player:16 - New player created
+2023-11-24 14:24:28 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:24:28 WARN  Player:54 - Player not in store
+2023-11-24 14:24:28 INFO  Player:147 - Item successfully bought
+2023-11-24 14:24:28 INFO  Player:147 - Item successfully bought
+2023-11-24 14:24:28 INFO  Player:147 - Item successfully bought
+2023-11-24 14:24:29 INFO  Player:16 - New player created
+2023-11-24 14:28:34 INFO  Player:16 - New player created
+2023-11-24 14:28:34 INFO  Player:16 - New player created
+2023-11-24 14:28:34 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:28:34 INFO  Player:16 - New player created
+2023-11-24 14:28:34 WARN  Player:54 - Player not in store
+2023-11-24 14:28:34 INFO  Player:16 - New player created
+2023-11-24 14:28:34 WARN  Player:54 - Player not in store
+2023-11-24 14:28:34 INFO  Player:147 - Item successfully bought
+2023-11-24 14:28:34 INFO  Player:147 - Item successfully bought
+2023-11-24 14:28:34 INFO  Player:147 - Item successfully bought
+2023-11-24 14:28:34 INFO  Player:16 - New player created
+2023-11-24 14:28:34 INFO  Player:16 - New player created
+2023-11-24 14:28:34 WARN  Player:54 - Player not in store
+2023-11-24 14:28:34 INFO  Player:16 - New player created
+2023-11-24 14:28:34 WARN  Player:54 - Player not in store
+2023-11-24 14:28:35 INFO  Player:16 - New player created
+2023-11-24 14:28:35 INFO  Player:16 - New player created
+2023-11-24 14:28:35 WARN  Player:54 - Player not in store
+2023-11-24 14:28:35 INFO  Player:16 - New player created
+2023-11-24 14:28:35 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:28:35 WARN  Player:54 - Player not in store
+2023-11-24 14:28:35 INFO  Player:147 - Item successfully bought
+2023-11-24 14:28:35 INFO  Player:147 - Item successfully bought
+2023-11-24 14:28:35 INFO  Player:147 - Item successfully bought
+2023-11-24 14:28:35 INFO  Player:147 - Item successfully bought
+2023-11-24 14:29:29 INFO  Player:16 - New player created
+2023-11-24 14:29:29 INFO  Player:16 - New player created
+2023-11-24 14:29:29 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:29:29 INFO  Player:16 - New player created
+2023-11-24 14:29:29 WARN  Player:54 - Player not in store
+2023-11-24 14:29:29 INFO  Player:16 - New player created
+2023-11-24 14:29:29 WARN  Player:54 - Player not in store
+2023-11-24 14:29:29 INFO  Player:147 - Item successfully bought
+2023-11-24 14:29:29 INFO  Player:147 - Item successfully bought
+2023-11-24 14:29:29 INFO  Player:147 - Item successfully bought
+2023-11-24 14:29:29 INFO  Player:16 - New player created
+2023-11-24 14:29:29 INFO  Player:16 - New player created
+2023-11-24 14:29:29 WARN  Player:54 - Player not in store
+2023-11-24 14:29:29 INFO  Player:16 - New player created
+2023-11-24 14:29:29 WARN  Player:54 - Player not in store
+2023-11-24 14:29:30 INFO  Player:16 - New player created
+2023-11-24 14:29:30 INFO  Player:16 - New player created
+2023-11-24 14:29:30 WARN  Player:54 - Player not in store
+2023-11-24 14:29:30 INFO  Player:16 - New player created
+2023-11-24 14:29:30 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:29:30 WARN  Player:54 - Player not in store
+2023-11-24 14:29:30 INFO  Player:147 - Item successfully bought
+2023-11-24 14:29:30 INFO  Player:147 - Item successfully bought
+2023-11-24 14:29:30 INFO  Player:147 - Item successfully bought
+2023-11-24 14:29:30 INFO  Player:147 - Item successfully bought
+2023-11-24 14:29:31 INFO  Player:16 - New player created
+2023-11-24 14:38:55 INFO  Player:16 - New player created
+2023-11-24 14:38:55 INFO  Player:16 - New player created
+2023-11-24 14:38:55 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:38:55 INFO  Player:16 - New player created
+2023-11-24 14:38:55 WARN  Player:54 - Player not in store
+2023-11-24 14:38:55 INFO  Player:16 - New player created
+2023-11-24 14:38:55 WARN  Player:54 - Player not in store
+2023-11-24 14:38:55 INFO  Player:147 - Item successfully bought
+2023-11-24 14:38:55 INFO  Player:147 - Item successfully bought
+2023-11-24 14:38:55 INFO  Player:147 - Item successfully bought
+2023-11-24 14:38:55 INFO  Player:16 - New player created
+2023-11-24 14:38:55 INFO  Player:16 - New player created
+2023-11-24 14:38:55 WARN  Player:54 - Player not in store
+2023-11-24 14:38:55 INFO  Player:16 - New player created
+2023-11-24 14:38:55 WARN  Player:54 - Player not in store
+2023-11-24 14:38:56 INFO  Player:16 - New player created
+2023-11-24 14:38:56 INFO  Player:16 - New player created
+2023-11-24 14:38:56 WARN  Player:54 - Player not in store
+2023-11-24 14:38:56 INFO  Player:16 - New player created
+2023-11-24 14:38:56 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:38:56 WARN  Player:54 - Player not in store
+2023-11-24 14:38:56 INFO  Player:147 - Item successfully bought
+2023-11-24 14:38:56 INFO  Player:147 - Item successfully bought
+2023-11-24 14:38:56 INFO  Player:147 - Item successfully bought
+2023-11-24 14:38:56 INFO  Player:147 - Item successfully bought
+2023-11-24 14:38:57 INFO  Player:16 - New player created
+2023-11-24 14:42:40 INFO  Player:16 - New player created
+2023-11-24 14:42:40 INFO  Player:16 - New player created
+2023-11-24 14:42:40 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:42:40 INFO  Player:16 - New player created
+2023-11-24 14:42:40 WARN  Player:54 - Player not in store
+2023-11-24 14:42:40 INFO  Player:16 - New player created
+2023-11-24 14:42:40 WARN  Player:54 - Player not in store
+2023-11-24 14:42:40 INFO  Player:147 - Item successfully bought
+2023-11-24 14:42:40 INFO  Player:147 - Item successfully bought
+2023-11-24 14:42:40 INFO  Player:147 - Item successfully bought
+2023-11-24 14:42:40 INFO  Player:16 - New player created
+2023-11-24 14:42:40 INFO  Player:16 - New player created
+2023-11-24 14:42:40 WARN  Player:54 - Player not in store
+2023-11-24 14:42:40 INFO  Player:16 - New player created
+2023-11-24 14:42:40 WARN  Player:54 - Player not in store
+2023-11-24 14:42:41 INFO  Player:16 - New player created
+2023-11-24 14:42:41 INFO  Player:16 - New player created
+2023-11-24 14:42:41 WARN  Player:54 - Player not in store
+2023-11-24 14:42:41 INFO  Player:16 - New player created
+2023-11-24 14:42:41 INFO  Player:169 - Item succesfully sold
+2023-11-24 14:42:41 WARN  Player:54 - Player not in store
+2023-11-24 14:42:41 INFO  Player:147 - Item successfully bought
+2023-11-24 14:42:41 INFO  Player:147 - Item successfully bought
+2023-11-24 14:42:41 INFO  Player:147 - Item successfully bought
+2023-11-24 14:42:41 INFO  Player:147 - Item successfully bought
+2023-11-24 16:57:35 INFO  Player:16 - New player created
+2023-11-24 16:57:35 INFO  Player:16 - New player created
+2023-11-24 16:57:35 INFO  Player:169 - Item succesfully sold
+2023-11-24 16:57:35 INFO  Player:16 - New player created
+2023-11-24 16:57:35 WARN  Player:54 - Player not in store
+2023-11-24 16:57:35 INFO  Player:16 - New player created
+2023-11-24 16:57:35 WARN  Player:54 - Player not in store
+2023-11-24 16:57:35 INFO  Player:147 - Item successfully bought
+2023-11-24 16:57:35 INFO  Player:147 - Item successfully bought
+2023-11-24 16:57:35 INFO  Player:147 - Item successfully bought
+2023-11-24 16:57:35 INFO  Player:16 - New player created
+2023-11-24 16:57:35 INFO  Player:16 - New player created
+2023-11-24 16:57:35 WARN  Player:54 - Player not in store
+2023-11-24 16:57:35 INFO  Player:16 - New player created
+2023-11-24 16:57:35 WARN  Player:54 - Player not in store
+2023-11-24 16:57:36 INFO  Player:16 - New player created
+2023-11-24 16:57:36 INFO  Player:16 - New player created
+2023-11-24 16:57:36 WARN  Player:54 - Player not in store
+2023-11-24 16:57:36 INFO  Player:16 - New player created
+2023-11-24 16:57:36 INFO  Player:169 - Item succesfully sold
+2023-11-24 16:57:36 WARN  Player:54 - Player not in store
+2023-11-24 16:57:36 INFO  Player:147 - Item successfully bought
+2023-11-24 16:57:36 INFO  Player:147 - Item successfully bought
+2023-11-24 16:57:36 INFO  Player:147 - Item successfully bought
+2023-11-24 16:57:36 INFO  Player:147 - Item successfully bought
+2023-12-08 01:00:25 INFO  Player:16 - New player created
+2023-12-08 01:00:40 INFO  Player:16 - New player created
+2023-12-08 01:00:40 INFO  Player:16 - New player created
+2023-12-08 01:00:40 INFO  Player:173 - Item succesfully sold
+2023-12-08 01:00:40 INFO  Player:16 - New player created
+2023-12-08 01:00:40 WARN  Player:54 - Player not in store
+2023-12-08 01:00:40 INFO  Player:16 - New player created
+2023-12-08 01:00:40 WARN  Player:54 - Player not in store
+2023-12-08 01:00:40 INFO  Player:151 - Item successfully bought
+2023-12-08 01:00:40 INFO  Player:151 - Item successfully bought
+2023-12-08 01:00:40 INFO  Player:151 - Item successfully bought
+2023-12-08 01:00:40 INFO  Player:16 - New player created
+2023-12-08 01:00:40 INFO  Player:16 - New player created
+2023-12-08 01:00:40 WARN  Player:54 - Player not in store
+2023-12-08 01:00:40 INFO  Player:16 - New player created
+2023-12-08 01:00:40 WARN  Player:54 - Player not in store
+2023-12-08 01:00:41 INFO  Player:16 - New player created
+2023-12-08 01:00:41 INFO  Player:16 - New player created
+2023-12-08 01:00:41 WARN  Player:54 - Player not in store
+2023-12-08 01:00:41 INFO  Player:16 - New player created
+2023-12-08 01:00:41 INFO  Player:173 - Item succesfully sold
+2023-12-08 01:00:41 WARN  Player:54 - Player not in store
+2023-12-08 01:00:41 INFO  Player:151 - Item successfully bought
+2023-12-08 01:00:42 INFO  Player:16 - New player created
+2023-12-08 01:07:15 INFO  Player:16 - New player created
+2023-12-08 01:07:15 INFO  Player:16 - New player created
+2023-12-08 01:07:15 INFO  Player:173 - Item succesfully sold
+2023-12-08 01:07:15 INFO  Player:16 - New player created
+2023-12-08 01:07:15 WARN  Player:54 - Player not in store
+2023-12-08 01:07:15 INFO  Player:16 - New player created
+2023-12-08 01:07:15 WARN  Player:54 - Player not in store
+2023-12-08 01:07:15 INFO  Player:151 - Item successfully bought
+2023-12-08 01:07:15 INFO  Player:151 - Item successfully bought
+2023-12-08 01:07:15 INFO  Player:151 - Item successfully bought
+2023-12-08 01:07:15 INFO  Player:16 - New player created
+2023-12-08 01:07:15 INFO  Player:16 - New player created
+2023-12-08 01:07:15 WARN  Player:54 - Player not in store
+2023-12-08 01:07:15 INFO  Player:16 - New player created
+2023-12-08 01:07:15 WARN  Player:54 - Player not in store
+2023-12-08 01:07:16 INFO  Player:16 - New player created
+2023-12-08 01:07:16 INFO  Player:16 - New player created
+2023-12-08 01:07:16 WARN  Player:54 - Player not in store
+2023-12-08 01:07:16 INFO  Player:16 - New player created
+2023-12-08 01:07:16 INFO  Player:173 - Item succesfully sold
+2023-12-08 01:07:16 WARN  Player:54 - Player not in store
+2023-12-08 01:07:16 INFO  Player:151 - Item successfully bought
+2023-12-08 01:07:17 INFO  Player:16 - New player created
+2023-12-08 01:15:12 INFO  Player:16 - New player created
+2023-12-08 01:15:12 INFO  Player:16 - New player created
+2023-12-08 01:15:12 INFO  Player:173 - Item succesfully sold
+2023-12-08 01:15:12 INFO  Player:16 - New player created
+2023-12-08 01:15:12 WARN  Player:54 - Player not in store
+2023-12-08 01:15:12 INFO  Player:16 - New player created
+2023-12-08 01:15:12 WARN  Player:54 - Player not in store
+2023-12-08 01:15:12 INFO  Player:151 - Item successfully bought
+2023-12-08 01:15:12 INFO  Player:151 - Item successfully bought
+2023-12-08 01:15:12 INFO  Player:151 - Item successfully bought
+2023-12-08 01:15:12 INFO  Player:16 - New player created
+2023-12-08 01:15:12 INFO  Player:16 - New player created
+2023-12-08 01:15:12 WARN  Player:54 - Player not in store
+2023-12-08 01:15:12 INFO  Player:16 - New player created
+2023-12-08 01:15:12 WARN  Player:54 - Player not in store
+2023-12-08 01:15:54 INFO  Player:16 - New player created
+2023-12-08 01:15:54 INFO  Player:16 - New player created
+2023-12-08 01:15:54 INFO  Player:173 - Item succesfully sold
+2023-12-08 01:15:54 INFO  Player:16 - New player created
+2023-12-08 01:15:54 WARN  Player:54 - Player not in store
+2023-12-08 01:15:54 INFO  Player:16 - New player created
+2023-12-08 01:15:54 WARN  Player:54 - Player not in store
+2023-12-08 01:15:54 INFO  Player:151 - Item successfully bought
+2023-12-08 01:15:54 INFO  Player:151 - Item successfully bought
+2023-12-08 01:15:54 INFO  Player:151 - Item successfully bought
+2023-12-08 01:15:54 INFO  Player:16 - New player created
+2023-12-08 01:15:54 INFO  Player:16 - New player created
+2023-12-08 01:15:54 WARN  Player:54 - Player not in store
+2023-12-08 01:15:54 INFO  Player:16 - New player created
+2023-12-08 01:15:54 WARN  Player:54 - Player not in store
+2023-12-08 01:15:56 INFO  Player:16 - New player created
+2023-12-08 01:15:56 INFO  Player:16 - New player created
+2023-12-08 01:15:56 WARN  Player:54 - Player not in store
+2023-12-08 01:15:56 INFO  Player:16 - New player created
+2023-12-08 01:15:56 INFO  Player:173 - Item succesfully sold
+2023-12-08 01:15:56 INFO  Player:173 - Item succesfully sold
+2023-12-08 01:15:56 WARN  Player:54 - Player not in store
+2023-12-08 01:15:56 INFO  Player:151 - Item successfully bought
+2023-12-08 01:16:50 INFO  Player:16 - New player created
+2023-12-08 01:16:50 INFO  Player:16 - New player created
+2023-12-08 01:16:50 INFO  Player:173 - Item succesfully sold
+2023-12-08 01:16:50 INFO  Player:16 - New player created
+2023-12-08 01:16:50 WARN  Player:54 - Player not in store
+2023-12-08 01:16:50 INFO  Player:16 - New player created
+2023-12-08 01:16:50 WARN  Player:54 - Player not in store
+2023-12-08 01:16:50 INFO  Player:151 - Item successfully bought
+2023-12-08 01:16:50 INFO  Player:151 - Item successfully bought
+2023-12-08 01:16:50 INFO  Player:151 - Item successfully bought
+2023-12-08 01:16:50 INFO  Player:16 - New player created
+2023-12-08 01:16:50 INFO  Player:16 - New player created
+2023-12-08 01:16:50 WARN  Player:54 - Player not in store
+2023-12-08 01:16:50 INFO  Player:16 - New player created
+2023-12-08 01:16:50 WARN  Player:54 - Player not in store
+2023-12-08 01:16:51 INFO  Player:16 - New player created
+2023-12-08 01:16:51 INFO  Player:16 - New player created
+2023-12-08 01:16:51 WARN  Player:54 - Player not in store
+2023-12-08 01:16:51 INFO  Player:16 - New player created
+2023-12-08 01:16:51 INFO  Player:173 - Item succesfully sold
+2023-12-08 01:16:51 INFO  Player:173 - Item succesfully sold
+2023-12-08 01:16:51 WARN  Player:54 - Player not in store
+2023-12-08 01:16:51 INFO  Player:151 - Item successfully bought
+2023-12-08 01:21:08 INFO  Player:16 - New player created
+2023-12-08 01:21:08 INFO  Player:16 - New player created
+2023-12-08 01:21:08 INFO  Player:179 - Item succesfully sold
+2023-12-08 01:21:08 INFO  Player:16 - New player created
+2023-12-08 01:21:08 WARN  Player:54 - Player not in store
+2023-12-08 01:21:08 INFO  Player:157 - Item successfully bought
+2023-12-08 01:21:08 INFO  Player:157 - Item successfully bought
+2023-12-08 01:21:08 INFO  Player:157 - Item successfully bought
+2023-12-08 01:21:08 INFO  Player:16 - New player created
+2023-12-08 01:21:08 INFO  Player:16 - New player created
+2023-12-08 01:21:08 WARN  Player:54 - Player not in store
+2023-12-08 01:21:08 INFO  Player:16 - New player created
+2023-12-08 01:21:08 WARN  Player:54 - Player not in store
+2023-12-08 01:21:49 INFO  Player:16 - New player created
+2023-12-08 01:21:49 INFO  Player:16 - New player created
+2023-12-08 01:21:49 INFO  Player:179 - Item succesfully sold
+2023-12-08 01:21:49 INFO  Player:16 - New player created
+2023-12-08 01:21:49 WARN  Player:54 - Player not in store
+2023-12-08 01:21:49 INFO  Player:157 - Item successfully bought
+2023-12-08 01:21:49 INFO  Player:157 - Item successfully bought
+2023-12-08 01:21:49 INFO  Player:157 - Item successfully bought
+2023-12-08 01:21:49 INFO  Player:16 - New player created
+2023-12-08 01:21:49 INFO  Player:16 - New player created
+2023-12-08 01:21:49 WARN  Player:54 - Player not in store
+2023-12-08 01:21:49 INFO  Player:16 - New player created
+2023-12-08 01:21:49 WARN  Player:54 - Player not in store
+2023-12-08 01:21:51 INFO  Player:16 - New player created
+2023-12-08 01:21:51 INFO  Player:16 - New player created
+2023-12-08 01:21:51 WARN  Player:54 - Player not in store
+2023-12-08 01:21:51 INFO  Player:16 - New player created
+2023-12-08 01:21:51 INFO  Player:179 - Item succesfully sold
+2023-12-08 01:21:51 WARN  Player:54 - Player not in store
+2023-12-08 01:21:51 INFO  Player:157 - Item successfully bought
+2023-12-08 01:21:51 INFO  Player:16 - New player created
+2023-12-08 01:24:04 INFO  Player:16 - New player created
+2023-12-08 01:24:04 INFO  Player:16 - New player created
+2023-12-08 01:24:04 INFO  Player:179 - Item succesfully sold
+2023-12-08 01:24:04 INFO  Player:16 - New player created
+2023-12-08 01:24:04 WARN  Player:54 - Player not in store
+2023-12-08 01:24:04 INFO  Player:157 - Item successfully bought
+2023-12-08 01:24:04 INFO  Player:157 - Item successfully bought
+2023-12-08 01:24:04 INFO  Player:157 - Item successfully bought
+2023-12-08 01:24:04 INFO  Player:16 - New player created
+2023-12-08 01:24:04 INFO  Player:16 - New player created
+2023-12-08 01:24:04 WARN  Player:54 - Player not in store
+2023-12-08 01:24:04 INFO  Player:16 - New player created
+2023-12-08 01:24:04 WARN  Player:54 - Player not in store
+2023-12-08 01:24:05 INFO  Player:16 - New player created
+2023-12-08 01:24:05 INFO  Player:16 - New player created
+2023-12-08 01:24:05 WARN  Player:54 - Player not in store
+2023-12-08 01:24:05 INFO  Player:16 - New player created
+2023-12-08 01:24:05 INFO  Player:179 - Item succesfully sold
+2023-12-08 01:24:05 WARN  Player:54 - Player not in store
+2023-12-08 01:24:05 INFO  Player:157 - Item successfully bought
+2023-12-08 01:24:06 INFO  Player:16 - New player created
